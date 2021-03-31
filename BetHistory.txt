@@ -1,0 +1,345 @@
+User Initial Chips: 100. User Initial Bet: 5.
+Player 2 Initial Chips: 100. Player 2 Initial Bet: 10.
+Player 3 Initial Chips: 100. Player 3 Initial Bet: 76.
+Player 4 Initial Chips: 100. Player 4 Initial Bet: 15.
+=========================SAME=ROUND========================
+User Final Chips: 100. User Final Bet: 0.
+Player 2 Final Chips: 100. Player 2 Final Bet: 0.
+Player 3 Final Chips: 100. Player 3 Final Bet: 76.
+Player 4 Final Chips: 100. Player 4 Final Bet: 0.
+===========================================================
+User Initial Chips: 100. User Initial Bet: 100.
+Player 2 Initial Chips: 100. Player 2 Initial Bet: 0.
+Player 3 Initial Chips: 100. Player 3 Initial Bet: 0.
+Player 4 Initial Chips: 100. Player 4 Initial Bet: 0.
+=========================SAME=ROUND========================
+User Final Chips: 100. User Final Bet: 100.
+Player 2 Final Chips: 100. Player 2 Final Bet: 0.
+Player 3 Final Chips: 100. Player 3 Final Bet: 0.
+Player 4 Final Chips: 100. Player 4 Final Bet: 0.
+===========================================================
+User Initial Chips: 100. User Initial Bet: 39.
+Player 2 Initial Chips: 100. Player 2 Initial Bet: 59.
+Player 3 Initial Chips: 100. Player 3 Initial Bet: 94.
+Player 4 Initial Chips: 100. Player 4 Initial Bet: 0.
+=========================SAME=ROUND========================
+User Final Chips: 6. User Final Bet: 94.
+Player 2 Final Chips: 288. Player 2 Final Bet: 94.
+Player 3 Final Chips: 6. Player 3 Final Bet: 94.
+Player 4 Final Chips: 100. Player 4 Final Bet: 0.
+===========================================================
+User Initial Chips: 6. User Initial Bet: 6.
+Player 2 Initial Chips: 288. Player 2 Initial Bet: 6.
+Player 3 Initial Chips: 6. Player 3 Initial Bet: 6.
+Player 4 Initial Chips: 100. Player 4 Initial Bet: 0.
+=========================SAME=ROUND========================
+User Final Chips: 0. User Final Bet: 6.
+Player 2 Final Chips: 282. Player 2 Final Bet: 6.
+Player 3 Final Chips: 18. Player 3 Final Bet: 6.
+Player 4 Final Chips: 100. Player 4 Final Bet: 0.
+=========================END=OF=GAME=======================
+User Initial Chips: 100. User Initial Bet: 80.
+Player 2 Initial Chips: 100. Player 2 Initial Bet: 94.
+Player 3 Initial Chips: 100. Player 3 Initial Bet: 81.
+Player 4 Initial Chips: 100. Player 4 Initial Bet: 80.
+=========================SAME=ROUND========================
+User Final Chips: 100. User Final Bet: -1.
+Player 2 Final Chips: 100. Player 2 Final Bet: 0.
+Player 3 Final Chips: 100. Player 3 Final Bet: 0.
+Player 4 Final Chips: 100. Player 4 Final Bet: 0.
+===========================================================
+User Initial Chips: 100. User Initial Bet: 80.
+Player 2 Initial Chips: 100. Player 2 Initial Bet: 93.
+Player 3 Initial Chips: 100. Player 3 Initial Bet: 80.
+Player 4 Initial Chips: 100. Player 4 Initial Bet: 86.
+=========================SAME=ROUND========================
+User Final Chips: 100. User Final Bet: 80.
+Player 2 Final Chips: 100. Player 2 Final Bet: 93.
+Player 3 Final Chips: 100. Player 3 Final Bet: 80.
+Player 4 Final Chips: 100. Player 4 Final Bet: 86.
+===========================================================
+User Final Chips: 100. User Final Bet: 80.
+Player 2 Final Chips: 100. Player 2 Final Bet: 93.
+Player 3 Final Chips: 100. Player 3 Final Bet: 80.
+Player 4 Final Chips: 100. Player 4 Final Bet: 86.
+===========================================================
+User Initial Chips: 100. User Initial Bet: 0.
+Player 2 Initial Chips: 100. Player 2 Initial Bet: 15.
+Player 3 Initial Chips: 100. Player 3 Initial Bet: 0.
+Player 4 Initial Chips: 100. Player 4 Initial Bet: 74.
+=========================SAME=ROUND========================
+User Final Chips: 100. User Final Bet: 0.
+Player 2 Final Chips: 174. Player 2 Final Bet: 74.
+Player 3 Final Chips: 100. Player 3 Final Bet: 0.
+Player 4 Final Chips: 26. Player 4 Final Bet: 74.
+===========================================================
+User Initial Chips: 100. User Initial Bet: 10.
+Player 2 Initial Chips: 100. Player 2 Initial Bet: 99.
+Player 3 Initial Chips: 100. Player 3 Initial Bet: 10.
+Player 4 Initial Chips: 100. Player 4 Initial Bet: 10.
+=========================SAME=ROUND========================
+User Final Chips: 397. User Final Bet: 99.
+Player 2 Final Chips: 1. Player 2 Final Bet: 99.
+Player 3 Final Chips: 1. Player 3 Final Bet: 99.
+Player 4 Final Chips: 1. Player 4 Final Bet: 99.
+===========================================================
+User Initial Chips: 397. User Initial Bet: 1.
+Player 2 Initial Chips: 1. Player 2 Initial Bet: 1.
+Player 3 Initial Chips: 1. Player 3 Initial Bet: 1.
+Player 4 Initial Chips: 1. Player 4 Initial Bet: 1.
+=========================SAME=ROUND========================
+User Final Chips: 400. User Final Bet: 1.
+Player 2 Final Chips: 0. Player 2 Final Bet: 1.
+Player 3 Final Chips: 0. Player 3 Final Bet: 1.
+Player 4 Final Chips: 0. Player 4 Final Bet: 1.
+=========================END=OF=GAME=======================
+User Initial Chips: 100. User Initial Bet: 100.
+Player 2 Initial Chips: 100. Player 2 Initial Bet: 100.
+Player 3 Initial Chips: 100. Player 3 Initial Bet: 100.
+Player 4 Initial Chips: 100. Player 4 Initial Bet: 100.
+=========================SAME=ROUND========================
+User Final Chips: 400. User Final Bet: 100.
+Player 2 Final Chips: 0. Player 2 Final Bet: 100.
+Player 3 Final Chips: 0. Player 3 Final Bet: 100.
+Player 4 Final Chips: 0. Player 4 Final Bet: 100.
+=========================END=OF=GAME=======================
+User Initial Chips: 100. User Initial Bet: 20.
+Player 2 Initial Chips: 100. Player 2 Initial Bet: 99.
+Player 3 Initial Chips: 100. Player 3 Initial Bet: 94.
+Player 4 Initial Chips: 100. Player 4 Initial Bet: 20.
+=========================SAME=ROUND========================
+User Final Chips: 100. User Final Bet: 20.
+Player 2 Final Chips: 100. Player 2 Final Bet: 99.
+Player 3 Final Chips: 100. Player 3 Final Bet: 94.
+Player 4 Final Chips: 100. Player 4 Final Bet: 20.
+===========================================================
+User Initial Chips: 100. User Initial Bet: 20.
+Player 2 Initial Chips: 100. Player 2 Initial Bet: 32.
+Player 3 Initial Chips: 100. Player 3 Initial Bet: 20.
+Player 4 Initial Chips: 100. Player 4 Initial Bet: 50.
+=========================SAME=ROUND========================
+User Final Chips: 150. User Final Bet: 50.
+Player 2 Final Chips: 100. Player 2 Final Bet: 0.
+Player 3 Final Chips: 100. Player 3 Final Bet: 0.
+Player 4 Final Chips: 50. Player 4 Final Bet: 50.
+===========================================================
+User Initial Chips: 150. User Initial Bet: 10.
+Player 2 Initial Chips: 100. Player 2 Initial Bet: 90.
+Player 3 Initial Chips: 100. Player 3 Initial Bet: 68.
+Player 4 Initial Chips: 50. Player 4 Initial Bet: 10.
+=========================SAME=ROUND========================
+User Final Chips: 150. User Final Bet: 0.
+Player 2 Final Chips: 100. Player 2 Final Bet: 90.
+Player 3 Final Chips: 100. Player 3 Final Bet: 0.
+Player 4 Final Chips: 50. Player 4 Final Bet: 0.
+===========================================================
+User Initial Chips: 150. User Initial Bet: 60.
+Player 2 Initial Chips: 100. Player 2 Initial Bet: 60.
+Player 3 Initial Chips: 100. Player 3 Initial Bet: 65.
+Player 4 Initial Chips: 50. Player 4 Initial Bet: 0.
+=========================SAME=ROUND========================
+User Final Chips: 215. User Final Bet: 65.
+Player 2 Final Chips: 100. Player 2 Final Bet: 0.
+Player 3 Final Chips: 35. Player 3 Final Bet: 65.
+Player 4 Final Chips: 50. Player 4 Final Bet: 0.
+===========================================================
+User Initial Chips: 215. User Initial Bet: 50.
+Player 2 Initial Chips: 100. Player 2 Initial Bet: 92.
+Player 3 Initial Chips: 35. Player 3 Initial Bet: 35.
+Player 4 Initial Chips: 50. Player 4 Initial Bet: 50.
+=========================SAME=ROUND========================
+User Final Chips: 357. User Final Bet: 92.
+Player 2 Final Chips: 8. Player 2 Final Bet: 92.
+Player 3 Final Chips: 35. Player 3 Final Bet: 0.
+Player 4 Final Chips: 0. Player 4 Final Bet: 50.
+===========================================================
+User Initial Chips: 357. User Initial Bet: 10.
+Player 2 Initial Chips: 8. Player 2 Initial Bet: 0.
+Player 3 Initial Chips: 35. Player 3 Initial Bet: 19.
+Player 4 Initial Chips: 0. Player 4 Initial Bet: 0.
+=========================SAME=ROUND========================
+User Final Chips: 376. User Final Bet: 19.
+Player 2 Final Chips: 8. Player 2 Final Bet: 0.
+Player 3 Final Chips: 16. Player 3 Final Bet: 19.
+Player 4 Final Chips: 0. Player 4 Final Bet: 0.
+===========================================================
+User Initial Chips: 376. User Initial Bet: 16.
+Player 2 Initial Chips: 8. Player 2 Initial Bet: 0.
+Player 3 Initial Chips: 16. Player 3 Initial Bet: 16.
+Player 4 Initial Chips: 0. Player 4 Initial Bet: 0.
+=========================SAME=ROUND========================
+User Final Chips: 392. User Final Bet: 16.
+Player 2 Final Chips: 8. Player 2 Final Bet: 0.
+Player 3 Final Chips: 0. Player 3 Final Bet: 16.
+Player 4 Final Chips: 0. Player 4 Final Bet: 0.
+===========================================================
+User Initial Chips: 392. User Initial Bet: 8.
+Player 2 Initial Chips: 8. Player 2 Initial Bet: 8.
+Player 3 Initial Chips: 0. Player 3 Initial Bet: 0.
+Player 4 Initial Chips: 0. Player 4 Initial Bet: 0.
+=========================SAME=ROUND========================
+User Final Chips: 400. User Final Bet: 8.
+Player 2 Final Chips: 0. Player 2 Final Bet: 8.
+Player 3 Final Chips: 0. Player 3 Final Bet: 0.
+Player 4 Final Chips: 0. Player 4 Final Bet: 0.
+=========================END=OF=GAME=======================
+User Initial Chips: 100. User Initial Bet: 100.
+Player 2 Initial Chips: 100. Player 2 Initial Bet: 100.
+Player 3 Initial Chips: 100. Player 3 Initial Bet: 100.
+Player 4 Initial Chips: 100. Player 4 Initial Bet: 0.
+=========================SAME=ROUND========================
+User Final Chips: 300. User Final Bet: 100.
+Player 2 Final Chips: 0. Player 2 Final Bet: 100.
+Player 3 Final Chips: 0. Player 3 Final Bet: 100.
+Player 4 Final Chips: 100. Player 4 Final Bet: 0.
+===========================================================
+User Initial Chips: 300. User Initial Bet: 300.
+Player 2 Initial Chips: 0. Player 2 Initial Bet: 0.
+Player 3 Initial Chips: 0. Player 3 Initial Bet: 0.
+Player 4 Initial Chips: 100. Player 4 Initial Bet: 100.
+=========================SAME=ROUND========================
+User Final Chips: 300. User Final Bet: 300.
+Player 2 Final Chips: 0. Player 2 Final Bet: 0.
+Player 3 Final Chips: 0. Player 3 Final Bet: 0.
+Player 4 Final Chips: 100. Player 4 Final Bet: 0.
+===========================================================
+User Initial Chips: 300. User Initial Bet: 300.
+Player 2 Initial Chips: 0. Player 2 Initial Bet: 0.
+Player 3 Initial Chips: 0. Player 3 Initial Bet: 0.
+Player 4 Initial Chips: 100. Player 4 Initial Bet: 100.
+=========================SAME=ROUND========================
+User Final Chips: 400. User Final Bet: 300.
+Player 2 Final Chips: 0. Player 2 Final Bet: 0.
+Player 3 Final Chips: 0. Player 3 Final Bet: 0.
+Player 4 Final Chips: 0. Player 4 Final Bet: 100.
+=========================END=OF=GAME=======================
+User Initial Chips: 100. User Initial Bet: 100.
+Player 2 Initial Chips: 100. Player 2 Initial Bet: 100.
+Player 3 Initial Chips: 100. Player 3 Initial Bet: 100.
+Player 4 Initial Chips: 100. Player 4 Initial Bet: 100.
+=========================SAME=ROUND========================
+User Final Chips: 100. User Final Bet: 100.
+Player 2 Final Chips: 100. Player 2 Final Bet: 100.
+Player 3 Final Chips: 100. Player 3 Final Bet: 100.
+Player 4 Final Chips: 100. Player 4 Final Bet: 100.
+===========================================================
+User Initial Chips: 100. User Initial Bet: 0.
+Player 2 Initial Chips: 100. Player 2 Initial Bet: 0.
+Player 3 Initial Chips: 100. Player 3 Initial Bet: 32.
+Player 4 Initial Chips: 100. Player 4 Initial Bet: 41.
+=========================SAME=ROUND========================
+User Final Chips: 100. User Final Bet: 0.
+Player 2 Final Chips: 100. Player 2 Final Bet: 0.
+Player 3 Final Chips: 100. Player 3 Final Bet: 0.
+Player 4 Final Chips: 100. Player 4 Final Bet: 41.
+===========================================================
+User Initial Chips: 100. User Initial Bet: 100.
+Player 2 Initial Chips: 100. Player 2 Initial Bet: 100.
+Player 3 Initial Chips: 100. Player 3 Initial Bet: 100.
+Player 4 Initial Chips: 100. Player 4 Initial Bet: 100.
+=========================SAME=ROUND========================
+User Final Chips: 400. User Final Bet: 100.
+Player 2 Final Chips: 0. Player 2 Final Bet: 100.
+Player 3 Final Chips: 0. Player 3 Final Bet: 100.
+Player 4 Final Chips: 0. Player 4 Final Bet: 100.
+=========================END=OF=GAME=======================
+User Initial Chips: 100. User Initial Bet: 100.
+Player 2 Initial Chips: 100. Player 2 Initial Bet: 0.
+Player 3 Initial Chips: 100. Player 3 Initial Bet: 0.
+Player 4 Initial Chips: 100. Player 4 Initial Bet: 100.
+=========================SAME=ROUND========================
+User Final Chips: 100. User Final Bet: 100.
+Player 2 Final Chips: 100. Player 2 Final Bet: 0.
+Player 3 Final Chips: 100. Player 3 Final Bet: 0.
+Player 4 Final Chips: 100. Player 4 Final Bet: 100.
+===========================================================
+User Initial Chips: 100. User Initial Bet: 100.
+Player 2 Initial Chips: 100. Player 2 Initial Bet: 100.
+Player 3 Initial Chips: 100. Player 3 Initial Bet: 100.
+Player 4 Initial Chips: 100. Player 4 Initial Bet: 100.
+=========================SAME=ROUND========================
+User Final Chips: 400. User Final Bet: 100.
+Player 2 Final Chips: 0. Player 2 Final Bet: 100.
+Player 3 Final Chips: 0. Player 3 Final Bet: 100.
+Player 4 Final Chips: 0. Player 4 Final Bet: 100.
+=========================END=OF=GAME=======================
+User Initial Chips: 100. User Initial Bet: 100.
+Player 2 Initial Chips: 100. Player 2 Initial Bet: 100.
+Player 3 Initial Chips: 100. Player 3 Initial Bet: 100.
+Player 4 Initial Chips: 100. Player 4 Initial Bet: 100.
+=========================SAME=ROUND========================
+User Final Chips: 100. User Final Bet: 100.
+Player 2 Final Chips: 100. Player 2 Final Bet: 100.
+Player 3 Final Chips: 100. Player 3 Final Bet: 100.
+Player 4 Final Chips: 100. Player 4 Final Bet: 100.
+===========================================================
+User Initial Chips: 100. User Initial Bet: 100.
+Player 2 Initial Chips: 100. Player 2 Initial Bet: 100.
+Player 3 Initial Chips: 100. Player 3 Initial Bet: 100.
+Player 4 Initial Chips: 100. Player 4 Initial Bet: 100.
+=========================SAME=ROUND========================
+User Final Chips: 400. User Final Bet: 100.
+Player 2 Final Chips: 0. Player 2 Final Bet: 100.
+Player 3 Final Chips: 0. Player 3 Final Bet: 100.
+Player 4 Final Chips: 0. Player 4 Final Bet: 100.
+=========================END=OF=GAME=======================
+User Initial Chips: 100. User Initial Bet: 100.
+Player 2 Initial Chips: 100. Player 2 Initial Bet: 100.
+Player 3 Initial Chips: 100. Player 3 Initial Bet: 100.
+Player 4 Initial Chips: 100. Player 4 Initial Bet: 0.
+=========================SAME=ROUND========================
+User Final Chips: 100. User Final Bet: 100.
+Player 2 Final Chips: 100. Player 2 Final Bet: 100.
+Player 3 Final Chips: 100. Player 3 Final Bet: 100.
+Player 4 Final Chips: 100. Player 4 Final Bet: 0.
+===========================================================
+User Initial Chips: 100. User Initial Bet: 100.
+Player 2 Initial Chips: 100. Player 2 Initial Bet: 0.
+Player 3 Initial Chips: 100. Player 3 Initial Bet: 100.
+Player 4 Initial Chips: 100. Player 4 Initial Bet: 100.
+=========================SAME=ROUND========================
+User Final Chips: 0. User Final Bet: 100.
+Player 2 Final Chips: 100. Player 2 Final Bet: 0.
+Player 3 Final Chips: 300. Player 3 Final Bet: 100.
+Player 4 Final Chips: 0. Player 4 Final Bet: 100.
+=========================END=OF=GAME=======================
+User Initial Chips: 100. User Initial Bet: 100.
+Player 2 Initial Chips: 100. Player 2 Initial Bet: 100.
+Player 3 Initial Chips: 100. Player 3 Initial Bet: 100.
+Player 4 Initial Chips: 100. Player 4 Initial Bet: 100.
+=========================SAME=ROUND========================
+User Final Chips: 100. User Final Bet: 100.
+Player 2 Final Chips: 100. Player 2 Final Bet: 100.
+Player 3 Final Chips: 100. Player 3 Final Bet: 100.
+Player 4 Final Chips: 100. Player 4 Final Bet: 100.
+===========================================================
+User Initial Chips: 100. User Initial Bet: 100.
+Player 2 Initial Chips: 100. Player 2 Initial Bet: 100.
+Player 3 Initial Chips: 100. Player 3 Initial Bet: 100.
+Player 4 Initial Chips: 100. Player 4 Initial Bet: 100.
+=========================SAME=ROUND========================
+User Final Chips: 0. User Final Bet: 100.
+Player 2 Final Chips: 0. Player 2 Final Bet: 100.
+Player 3 Final Chips: 400. Player 3 Final Bet: 100.
+Player 4 Final Chips: 0. Player 4 Final Bet: 100.
+=========================END=OF=GAME=======================
+User Initial Chips: 100. User Initial Bet: 50.
+Player 2 Initial Chips: 100. Player 2 Initial Bet: 69.
+Player 3 Initial Chips: 100. Player 3 Initial Bet: 0.
+Player 4 Initial Chips: 100. Player 4 Initial Bet: 100.
+=========================SAME=ROUND========================
+User Final Chips: 0. User Final Bet: 100.
+Player 2 Final Chips: 300. Player 2 Final Bet: 100.
+Player 3 Final Chips: 100. Player 3 Final Bet: 0.
+Player 4 Final Chips: 0. Player 4 Final Bet: 100.
+=========================END=OF=GAME=======================
+User Initial Chips: 100. User Initial Bet: 50.
+Player 2 Initial Chips: 100. Player 2 Initial Bet: 51.
+Player 3 Initial Chips: 100. Player 3 Initial Bet: 0.
+Player 4 Initial Chips: 100. Player 4 Initial Bet: 53.
+=========================SAME=ROUND========================
+User Final Chips: 47. User Final Bet: 53.
+Player 2 Final Chips: 206. Player 2 Final Bet: 53.
+Player 3 Final Chips: 100. Player 3 Final Bet: 0.
+Player 4 Final Chips: 47. Player 4 Final Bet: 53.
+===========================================================

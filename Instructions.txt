@@ -1,0 +1,32 @@
+Welcome to 5-Card Poker! 
+
+You will be facing the menacing, all powerful, random bots... and three of them!
+Pretty much how it goes is that you will be playing regular poker, and there is some
+certain functionality that we have given to make your experience better. Every player
+will have the ability to exchange their cards one at a time! This is just to make this game
+more enjoyable: a good, random hand is hard to come by, so we will just speed up the process
+to let you build your own quicker! 
+
+There is a hud with all the functionality you will use, you can exchange cards (although, only
+once per card), and you can bet, match, or fold just like regular Poker. You can just use
+the mouse to click each of these buttons and have fun!
+
+For folding, we will also let you keep your chips if you fold! This is to accommodate for 
+the random players, as they are set to not fold a lot, so in the chance that they do fold 
+they should be safe. 
+
+A little note about the hud: if you click done before matching the bet, you automatically fold.
+
+Also, you will get a history of all the outcomes per round on the BetHistory.txt file! Note that
+this bet history assumes that you finish the game to the end. If you end the program early, the 
+history will not reset by itself, so play till the end!
+
+What you see on the table is the previous bet of a player, as well as their current chips. Once
+you see the bet of the round, you can decide to match or not!
+
+Your goal is to build the best hand, and win all of the chips on the table. Once you do that,
+you will win not only the rounds, but also the whole game! Good luck building!
+
+Whenever you want to play another round or another game, just click the button on the top-left!
+
+I hope you have fun playing Poker: these random bots are good!
